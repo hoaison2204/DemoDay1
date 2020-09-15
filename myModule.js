@@ -3,7 +3,7 @@ var mathLib ={
         return x*2;
     },
 
-    rectangleArena : function (width, height){
+    rectangleArea : function (width, height){
         return (width + height);
     }
 };
